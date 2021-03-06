@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+#avengers2{
+    width: 100%;
+    height: 900px;
+}
+.shame{
+    text-align: center;
+    width: 50px;
+    height: 20px;
+}
+.container
+{
+    text-align: center;
+}
+#mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+#mycarousel2 img{
+    height: 300px;
+    margin-top: 35px;
+}
+
